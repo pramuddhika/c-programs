@@ -1,3 +1,6 @@
+/*
+A seats allocation simple-algorithm for a 10-seats airplane
+*/
 #include <iostream>
 
 using namespace std;
